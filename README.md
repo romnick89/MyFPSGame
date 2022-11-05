@@ -1,4 +1,5 @@
 # MyFPSGame
+The file folder holds only the scripts of the project.
 
 # This link "https://simmer.io/@Naganko" will take you to simmer.io where you can test the gameplay.
 
